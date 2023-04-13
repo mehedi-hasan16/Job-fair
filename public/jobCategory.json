@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "image": "https://thumbs.dreamstime.com/b/black-hacker-software-engineer-symbol-white-background-concept-depicting-danger-using-internet-protection-co-117453507.jpg",
+      "job_category": "Software Engineer",
+      "availability": 10
+    },
+    {
+      "id": 2,
+      "image": "https://w7.pngwing.com/pngs/210/750/png-transparent-sales-management-graph-of-a-function-marketing-service-logo-graph-of-a-function-thumbnail.png",
+      "job_category": "Sales Manager",
+      "availability": 5
+    },
+    {
+      "id": 3,
+      "image": "https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/6388f719127865e901c628fa_graphic-design-free-logo-generator.png",
+      "job_category": "Graphic Designer",
+      "availability": 8
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626678209/hevo-learn/data-science-logo-icon.png?_i=AA",
+      "job_category": "Data Scientist",
+      "availability": 6
+    }
+  ]
+  

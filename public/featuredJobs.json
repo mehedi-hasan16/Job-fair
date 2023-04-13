@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.masstransitmag.com/files/base/cygnus/mass/image/2022/11/ABC_Companies_Logo.6372a1e2885b0.png?auto=format,compress&fit=fill&pad=5&fill-color=white&h=278&w=500&q=45",
+    "job_name": "Software Engineer",
+    "company_name": "ABC Company",
+    "work_type": "Remote",
+    "location": "Any",
+    "salary": "$100,000 - $120,000",
+    "phone": 1234567890,
+    "email":"info@company.com"
+  },
+  {
+    "id": 2,
+    "image": "https://www.wearexyz.com/wp-content/uploads/2021/11/share-img.jpg",
+    "job_name": "Marketing Manager",
+    "company_name": "XYZ Corp",
+    "work_type": "On-site",
+    "location": "San Francisco, CA",
+    "salary": "$90,000 - $110,000",
+    "phone": 1234567890,
+    "email":"info@company.com"
+  },
+  {
+    "id": 3,
+    "image": "https://1000logos.net/wp-content/uploads/2021/04/ACME-logo.png",
+    "job_name": "Data Scientist",
+    "company_name": "Acme Inc.",
+    "work_type": "Full-time",
+    "location": "New York, NY",
+    "salary": "$120,000 - $140,000",
+    "phone": 1234567890,
+    "email":"info@company.com"
+  },
+  {
+    "id": 4,
+    "image": "https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png",
+    "job_name": "UI/UX Designer",
+    "company_name": "DEF Corp",
+    "work_type": "Remote",
+    "location": "Any",
+    "salary": "$80,000 - $100,000",
+    "phone": 1234567890,
+    "email":"info@company.com"
+  },
+  {
+    "id": 5,
+    "image": "https://ghi.co.za/wp-content/uploads/2018/06/ghi-home.png",
+    "job_name": "Account Manager",
+    "company_name": "GHI Solutions",
+    "work_type": "On-site",
+    "location": "Boston, MA",
+    "salary": "$70,000 - $90,000",
+    "phone": 1234567890,
+    "email":"info@company.com"
+  },
+  {
+    "id": 6,
+    "image": "https://www.jkl-technology.com/wp-content/uploads/2022/02/cropped-JKL-LOGO.jpg",
+    "job_name": "Network Administrator",
+    "company_name": "JKL Co.",
+    "work_type": "Full-time",
+    "location": "Los Angeles, CA",
+    "salary": "$80,000 - $100,000",
+    "phone": 1234567890,
+    "email":"info@company.com"
+  }
+]
